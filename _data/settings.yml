@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Chicago's Best Real Estate Training"
+description: Amy Kite, a top Real Estate Agent in Chicago, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,21 +14,23 @@ custom_links:
 
 
 client:
-  name:
+  name: Amy Kite
   title:
   license_number:
   about_markdown: |
+    When people ask Amy Kite what she does for a living, she replies, “I help individuals build their future and create their legacy by investing in real estate." Amy can not think of a better way to spend her day! There is no greater joy to her than when she sees a satisfied and excited client to start a grand new chapter in their life.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    It's no wonder that Amy is now considered a Top Expert in her area. She has netted 98.7% for her clients of their asking price for the past 3 years.  For 2007, she has netted 99.5% for her sellers of their asking price and her buyers have paid on average 92% of the asking price. As you could imagine, her clients are extremely grateful and are very satisfied!
+  market: Chicago
+  brand: The Kite Team
+  brokerage: Keller Williams Realty Infinity
+  address: 501 Peterson Rd, Suite 200<br>Libertyville, IL 60048
+  phone: 847-877-9881
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: amy@amykite.com
+  url: http://www.amykite.com
 
 lender:
   show_section: false
@@ -44,12 +46,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
+  facebook_url: https://www.facebook.com/KiteTeamRealEstate
+  linkedin_url: https://www.linkedin.com/in/amykite
+  youtube_url: https://www.youtube.com/channel/UCce-kFCFi8JEl4EhjHznCMQ
+  twitter_url: https://twitter.com/TheKiteTeamKW
+  instagram_url: https://www.instagram.com/thekiteteamkwrealty/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -74,8 +75,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#b21f24'
+  theme_color: '#65696e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
