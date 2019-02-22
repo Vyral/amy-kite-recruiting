@@ -15,39 +15,46 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand you’ve been in the business for less than a year, and though you’ve found some success, you lack the kind of consistency and income you desire. Or, you work at a brokerage that lacks sufficient training to take you to the next level. You might love the business, but let’s face it—it’s not easy out there. </p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>For some people, this situation can be painful. You’re in a position where you have to make things work or give up the dream. Without proper training, support, and education, making things work isn’t easy, and in the meantime, bills are piling up, your savings are dwindling, and there’s no income on the horizon.</p>
+
+<p>First, you should know that you’re not alone. Because of circumstances like these, <strong>studies show that 87% of all agents fail after five years in the industry.</strong> </p>
+
+<p>To keep themselves from becoming a part of this statistic, some agents try throwing money at the problem. They pay for things like Facebook ads, or referral sources, or leads. The problem is, they don’t know what to do with these leads once they get them. This may open some doors, but clients typically aren’t willing to trust a new agent to guide them through the home sale process. </p>
+
+<p>The truth is, some agents just aren’t prepared for this industry. If this problem goes unsolved, you’ll either end up in debt and/or forced to find a new line of work—one where you won’t have the freedom and the ability to make the kind of income you can make in real estate. </p>
+
+<p><strong>I’m Amy Kite, and I have an offer to help you fix this problem once and for all: join us and become a member of The Kite Team.</strong> </p>
+
+<p>Our brand is the top brand in all of Chicagoland, and we close 400 to 500 properties each year. With our training, systems, and high volume of business, we can teach you more about this industry in three months than you’d be able to learn anywhere else. We can give you leads that will get you to the closing table quickly and often.  </p>
+
+<p>No other team in the Chicagoland area can do for their agents what we can do for you. Some of the things we offer include:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>A mentorship program where you’ll work directly with our lead buyer’s agent</li>
+<li>Accountability</li>
+<li>Daily morning Q&A sessions where you’ll be able to ask questions to our most experienced agents and share in our collective expertise</li>
+<li>Opportunities for career growth</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>With our guidance, <strong>we guarantee you’ll have at least two properties under contract within your first 60 days.</strong> </p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>In short, you can continue down the road you’re on and try figuring everything out on your own, find a new career, or switch to another brokerage that doesn’t have the same systems and training that we do and expects you to do everything on your own. Or, you could take your first step on the road toward success and join my team.  </p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>Don’t just take my word for it. Chris, one of our buyer’s agents, came to us a year ago with his back against the wall. He’d already been in the business for six months, but he wasn’t getting the results he wanted. When he came to us, though, we knew he had what it took to succeed. Within two months after joining our team, he had two properties under his belt. Today he’s ready to become a homeowner, himself. </p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>If you take us up on our offer, we’ll get you started with our onboarding process. Over 90 days, you’ll shadow one of our mentors and learn the ins and outs of our systems and tools. </p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>We have buyer’s agents, listing agents, showing assistants, builder specialists, and inside sales associates all working together, and if you apply now, you’ll be able to find your niche and become an expert in that area. After that, you’ll have the chance to expand your expertise and diversify your career. </p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>The people in your sphere of influence already know about us. <strong>On our team, you’ll have the most credible name in the business behind you.</strong> The quicker you respond to this offer, the quicker we can put you on the path toward success. </p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>I look forward to talking to you soon. </p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>Amy Kite</p>
 
-<p>Let’s help you grow your business.</p>
-
-<p>{{site.data.settings.client.name}}</p>
 
 
 
