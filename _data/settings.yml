@@ -14,6 +14,12 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
+
+post_ctas:
+  events_url:
+  events_image: /img/events.jpg
+  join_our_team_image: /img/join_our_team_full.jpg
+
 client:
   name: Amy Kite
   title:
