@@ -16,7 +16,9 @@ youtube_code: 80ReRidbT6A
 
 {% include youtube.html %}
 
-<center>How many open house signs should you have? As many as possible.</center>
+<center><em>How many open house signs should you have? As many as possible.</em></center>
+
+&nbsp;
 
 How many signs should you use for your open house? In my opinion, you should have as many as possible.
 
