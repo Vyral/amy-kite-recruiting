@@ -18,7 +18,9 @@ youtube_code: F6pLEZnVO-4
 
 {% include youtube.html %}
 
-<center>How can you ensure that people will attend your open houses? Here are a few of my tips.</center>
+<center><em>How can you ensure that people will attend your open houses? Here are a few of my tips.</em></center>
+
+&nbsp;
 
 When you hold an open house for a listing, it can be frustrating if no one shows up, right? So how can you be certain that people will actually attend your open house?
 
