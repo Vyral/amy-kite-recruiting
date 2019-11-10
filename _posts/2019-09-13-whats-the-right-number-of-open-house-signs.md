@@ -5,7 +5,8 @@ date: 2019-09-13 00:00:00
 tags:
   - Lead Generation
 excerpt: How many open house signs should you have? As many as possible.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Whats+the+Right+Number+of+Open+House+Signs_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
