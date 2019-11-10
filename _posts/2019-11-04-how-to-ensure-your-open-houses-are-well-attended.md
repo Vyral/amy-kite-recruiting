@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How can you ensure that people will attend your open houses? Here are a few of
   my tips.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/How+to+Ensure+Your+Open+Houses+Are+Well-Attended.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
