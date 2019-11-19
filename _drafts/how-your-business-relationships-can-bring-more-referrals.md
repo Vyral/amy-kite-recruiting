@@ -18,9 +18,9 @@ youtube_code: jsZHR1R6mwo
 
 {% include youtube.html %}
 
-Your relationship with your vendors is vitally important if you want to increase your referral business.
+<p style="text-align:center;"><em>Your relationship with your vendors is vitally important if you want to increase your referral business.</em></p>
 
-When I started in this business, I got connected with a fantastic lender. I provided referrals to this lender, and they did the same for me. In today’s business, there are a ton of lenders who want your business, but do they want to give you theirs?
+<br>When I started in this business, I got connected with a fantastic lender. I provided referrals to this lender, and they did the same for me. In today’s business, there are a ton of lenders who want your business, but do they want to give you theirs?
 
 **What you’re looking for in a lender partner is reciprocity**. If you’re going to send them multiple referrals, they should be doing the same for you. Referrals work with more than just lenders, too. Home inspectors, insurance agents, and even handymen can provide you with referrals as well.
 
