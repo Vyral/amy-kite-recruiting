@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Your relationship with your vendors is vitally important if you want to
   increase your referral business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/How+Your+Business+Relationships+Can+Bring+More+Referrals.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: jsZHR1R6mwo
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Your relationship with your vendors is vitally important if you want to increase your referral business.</em></p>
+*Your relationship with your vendors is vitally important if you want to increase your referral business.*
 
 When I started in this business, I got connected with a fantastic lender. I provided referrals to this lender, and they did the same for me. In today’s business, there are a ton of lenders who want your business, but do they want to give you theirs?
 
