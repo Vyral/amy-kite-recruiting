@@ -18,7 +18,7 @@ youtube_code: tKzmJMl9wlQ
 
 <center><em>Today I want to share a quick message about how to market to your farm.</em></center>
 
-<br>I want to share a short message about farming. **I started my business with farming**. I began with a 1,600 door neighborhood. That’s a ton of doors. Every month I hand-deliver a newsletter.
+<br>I want to share a short message about farming. **I started my business with farming**. I began with a 1,600-door neighborhood. That’s a ton of doors. Every month I hand-deliver a newsletter.
 
 Farming is targeting your marketing to a certain area. When it comes to farming and targeting, I advise that you go small into an area you can manage. If you can only manage 100 doors, that’s fine, but you want to do it well. Do it right: Communicate with them regularly, get to know them, and create a relationship with these people. Think about what is manageable for you.
 
