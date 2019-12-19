@@ -24,7 +24,7 @@ Farming is targeting your marketing to a certain area. When it comes to farming 
 
 {% include pullquote.html %}
 
-One thing you may want to do is stand on the corner and hand out KIND Bars. **There are many things you can do in your farm besides door-knocking, handing out newsletters, and sending postcards**. You can actually get to know people too.
+One thing you may want to do is stand on the corner and hand out KIND Bars. **There are many things you can do in your farm besides door-knocking, handing out newsletters, and sending postcards**. You can actually get to know people, too.
 
 If you have any questions about targeting, marketing, or farming, I’m here to help. Feel free to call or email me with your needs.
 
