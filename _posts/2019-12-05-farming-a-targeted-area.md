@@ -5,7 +5,8 @@ date: 2019-12-05 00:00:00
 tags:
   - Lead Generation
 excerpt: Today I want to share a quick message about how to market to your farm.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Farming+a+Targeted+Area.mp4
 pullquote: Farming is targeting your marketing to a certain area.
 enclosure_type: video/mp4
 enclosure_time:
