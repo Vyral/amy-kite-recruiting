@@ -18,7 +18,7 @@ youtube_code: uVkrXuxBssY
 
 {% include youtube.html %}
 
-<center><em>Today I’m discussing short sales and which banks are best to work with when they happen.</em></center>
+<center><em>Today I&rsquo;m discussing short sales and which banks are best to work with when they happen.</em></center>
 
 <br>There are many people today who still need to do short sales in this market. It’s hard to believe, but **this many years after the downturn, people are still in trouble**. In Illinois, this has become an issue. As a reminder, a short sale is a sale in which the net proceeds from selling the home fall short of the debts secured by liens against the property.
 
