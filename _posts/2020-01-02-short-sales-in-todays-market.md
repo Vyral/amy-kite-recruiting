@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m discussing short sales and which banks are best to work with when
   they happen.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Short+Sales+in+Todays+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
