@@ -18,7 +18,7 @@ youtube_code: yLLVBkyZMbc
 
 <center><em>We&rsquo;re hiring listing agents. Here&rsquo;s everything you need to know.</em></center>
 
-<br>I am eager to share that we are searching for a couple of wonderful listing agents to join our team. **We’re looking for someone who is experienced, is great at pricing properties, takes care of clients, and is interested in being part of a team**. Even if you aren’t the best at lead generation, we’re looking for someone who, once they receive a client, they can fully make them happy. We’re searching for someone who knows northern Kane, McHenry, Lake, northern Cook, and Will Counties, and also South Chicago.
+<br>I am eager to share that we are searching for a couple of wonderful listing agents to join our team. **We’re looking for someone who is experienced, is great at pricing properties, takes care of clients, and is interested in being part of a team**. Even if you aren’t the best at lead generation, we’re looking for someone who, upon receiving a client, can fully make them happy. We’re searching for someone who knows Northern Kane, McHenry, Lake, Northern Cook, and Will counties, and also South Chicago.
 
 Our ISAs set 40 listing appointments last week, so we’re searching for listing agents to join us. This is an excellent career opportunity.
 
