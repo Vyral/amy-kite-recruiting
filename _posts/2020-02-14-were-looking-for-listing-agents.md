@@ -5,7 +5,8 @@ date: 2020-02-14 00:00:00
 tags:
   - Transaction Management
 excerpt: We’re hiring listing agents. Here’s everything you need to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Were+Looking+for+Listing+Agents!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
