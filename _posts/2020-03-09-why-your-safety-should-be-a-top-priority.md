@@ -18,7 +18,7 @@ youtube_code: CCXB97KYQv4
 
 {% include youtube.html %}
 
-<center><em>As a Realtor, you shouldn’t forget to keep your safety a top priority when meeting with clients.</em></center>
+<center><em>As a Realtor, you shouldn&rsquo;t forget to keep your safety a top priority when meeting with clients.</em></center>
 
 <br>Realtor safety is a big topic nowadays. With that in mind, I have a question to ask you: **Have you thought about the best way to meet with clients?**
 
