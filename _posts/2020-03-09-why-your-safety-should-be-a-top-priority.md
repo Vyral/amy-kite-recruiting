@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   As a Realtor, you shouldn’t forget to keep your safety a top priority when
   meeting with clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Why+Your+Safety+Should+Be+a+Top+Priority.mp4
 pullquote: "Take your safety seriously—it’s a job, and you\_have\_a long life to live."
 enclosure_type: video/mp4
 enclosure_time:
