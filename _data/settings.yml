@@ -9,26 +9,32 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: https://www.eventbrite.com/o/amy-kite-19807891400
+    url: 'https://www.eventbrite.com/o/amy-kite-19807891400'
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
-
 post_ctas:
   events_url:
   events_image: /img/events.jpg
   join_our_team_image: /img/join_our_team_full.jpg
-
 client:
   name: Amy Kite
   title:
   license_number:
   about_markdown: >-
-    Amy started her real estate career in 2004 like most others...alone, untrained and needing to make money. She attended multiple classes at many different brokerages and the board. She earned nearly every designation out there in a search for knowledge. She knew that she needed to learn as much as she could as quickly as possible in order to guide her client's through the home buying and selling process.
+    Amy started her real estate career in 2004 like most others...alone,
+    untrained and needing to make money. She attended multiple classes at many
+    different brokerages and the board. She earned nearly every designation out
+    there in a search for knowledge. She knew that she needed to learn as much
+    as she could as quickly as possible in order to guide her client's through
+    the home buying and selling process.
 
 
-    Now Amy has a team of agents working for her and they sell hundreds of homes a year. She always tells her agents, "I wish I could take all my years of knowledge and pour it into you so you can start running quickly." The best way she has found to do this is through ongoing training.
+    Now Amy has a team of agents working for her and they sell hundreds of homes
+    a year. She always tells her agents, "I wish I could take all my years of
+    knowledge and pour it into you so you can start running quickly." The best
+    way she has found to do this is through ongoing training.
   market: Chicago
   brand: The Kite Team
   brokerage: Keller Williams Realty Infinity
@@ -56,7 +62,7 @@ socials:
   linkedin_url: 'https://www.linkedin.com/in/amykite'
   youtube_url: 'https://www.youtube.com/channel/UCce-kFCFi8JEl4EhjHznCMQ'
   twitter_url: 'https://twitter.com/TheKiteTeamKW'
-  instagram_url: 'https://www.instagram.com/thekiteteamkwrealty/'
+  instagram_url: 'https://www.instagram.com/thekiteteam_kwrealty/'
   pinterest_url:
   zillow_url:
   trulia_url:
