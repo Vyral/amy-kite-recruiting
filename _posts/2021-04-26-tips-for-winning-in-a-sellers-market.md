@@ -5,7 +5,8 @@ date: 2021-04-26 00:00:00
 tags:
   - Buyer Prospects
 excerpt: These four tips will help your buyers win out in this seller’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Tips+for+Winning+in+a+Seller%E2%80%99s+Market.mp4
 pullquote: >-
   Low appraisals are happening more and more; address this elephant in the room
   preemptively.
