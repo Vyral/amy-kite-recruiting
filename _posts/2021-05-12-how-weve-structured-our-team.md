@@ -21,7 +21,7 @@ youtube_code: CJ1SAdfZVqU
 
 A question that I am often asked is how to structure a team. I'm going to share how we're structured and how we sell over 350 houses a year. **Last year, we had five licensed agents transact 352 units**. Here’s how we’re set up:
 
-Every lead that comes in goes to our inside sales department. These people answer our phones and take down information from the individual calling. From there, they determine whether an appointment needs to be scheduled, whether they just need to be followed up with, or whether they need to go to a lender. They feel out what the next step is for that individual.
+Every lead that comes in goes to our inside sales department. These people answer our phones and take down information from the individual calling. From there, they determine whether an appointment needs to be scheduled, whether they just need to be followed up with, or whether they need to go to a lender. They feel out the next step for that individual.
 
 If it goes to an agent, then the agent is booked with that client. There will be an appointment scheduled on the agent's calendar. The ISAs will do a follow-up and confirm the appointment. If the appointment is taken, the agent will send out listing paperwork to that client.
 
