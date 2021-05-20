@@ -5,7 +5,8 @@ date: 2021-05-12 00:00:00
 tags:
   - Transaction Management
 excerpt: This is how the Kite Team is structured and why it works so well.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+We%E2%80%99ve+Structured+Our+Team.mp4
 pullquote: >-
   Some people can handle the entire transaction, but most like a smaller part of
   the agent job.
