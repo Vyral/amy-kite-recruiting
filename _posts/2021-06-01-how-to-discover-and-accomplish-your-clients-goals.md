@@ -1,10 +1,11 @@
 ---
 layout: post
 title: How to Discover and Accomplish Your Client’s Goals
-date: 2021-06-01 17:47:06
+date: 2021-06-01 17:47:00
 tags:
 excerpt: There are many different goals your clients may have when buying or selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Common+Issues+After+an+Offer+is+Accepted.mp4
 pullquote: >-
   By asking good questions, you’ll get a good idea of how you can meet your
   client’s goals.
