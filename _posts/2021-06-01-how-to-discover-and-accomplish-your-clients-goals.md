@@ -3,6 +3,7 @@ layout: post
 title: How to Discover and Accomplish Your Client’s Goals
 date: 2021-06-01 17:47:00
 tags:
+  - Transaction Management
 excerpt: There are many different goals your clients may have when buying or selling.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+to+Discover+and+Accomplish+Your+Client%E2%80%99s+Goals.mp4
