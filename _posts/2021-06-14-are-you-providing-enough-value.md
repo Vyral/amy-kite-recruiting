@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Ask yourself this question to ensure you’re providing enough value to your
   clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Are+You+Providing+Enough+Value_.mp4
 pullquote: In the absence of value, all that’s left is price.
 enclosure_type: video/mp4
 enclosure_time:
