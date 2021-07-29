@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agent Challenges: Time, Money, and People'
-date: 2021-07-12 00:00:00
+date: 2021-07-27 00:00:00
 tags:
   - Transaction Management
 excerpt: I’m offering advice for how to handle the three major agent challenges.
