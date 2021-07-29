@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Chicago Real Estate Podcast with Amy Kite</title>
-    <link>http://realestatecareerschicagoland.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://realestatecareerschicagoland.com"/>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Kite Team - your professional Chicago Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Amy Kite</managingEditor>
-    <lastBuildDate>2019-05-16 15:39:41 -0500</lastBuildDate>
+    <lastBuildDate>2021-07-26 11:22:42 -0500</lastBuildDate>
     <media:copyright>Amy Kite</media:copyright>
-    <media:thumbnail url="http://realestatecareerschicagoland.com/img/podcast.jpg"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,12 +18,509 @@
     </itunes:owner>
     <itunes:author>Amy Kite</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://realestatecareerschicagoland.com/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Chicago Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Kite Team - your professional Chicago Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Agent Challenges: Time, Money, and People</title>
+        <link>http://localhost:4000/agent-challenges-time-money-and-people.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2021-07-11 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+I’m offering advice for how to handle the three major agent challenges.
+
+The three main challenges real estate agents face are time, money, and people. When you run a real estate business, you’ll deal with all three of them regularly. Today I’m offering my advice on how to handle these challenges.
+
+Time is precious and has value. Every hour has a dollar value, so time blocking is crucial. Take control of your time by blocking out sections of your day to lead generate, go on appointments, and even go to the grocery store.
+
+People sometimes also have trouble saying “no,” but don’t be afraid to say it. Sometimes we say yes to everything because we want to please people or say we’ll handle something that doesn’t truly fit into our day. The more efficient you are with your time, the more money you can make. If every minute is worth a certain dollar amount, the more efficient you are, and the more likely you are to create more dollars.
+
+Next, let’s discuss money. Agents like “shiny objects,” and we’re all sold shiny objects that may make us a bunch of money, but they may not too. If we don’t hold our money accountable, we won’t see a return on our spending. Be very careful with your money; create a budget that will show you exactly what your monthly costs are so you know the amount you need to make every month to pay the bills. Don’t forget to pay yourself too—you should be the first person you pay.
+
+“The more efficient you are with your time, the more money you can make.”
+
+Finally, we need to talk about people. Even if you don’t have a team, you still have people working for you. You have the broker, office staff, maybe people who come in to train, and possibly a coach or mentor, so ensure you’re getting value from each of them.
+
+If you’re paying the company money but the office staff isn’t helping you through the transaction, what are you paying for, where are your fees going? Holding people accountable to helping you is key. Make sure your coaches and mentors are challenging you, holding you accountable, and helping you grow. Is the training you’re receiving helping you become better at your job, get more leads, convert more leads, etc.?
+
+If you have questions about these three major agent challenges or any other real estate matter, I’d be glad to help. Please reach out via phone or email; I’d love to speak with you.
+
+
+
+
+
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m offering advice for how to handle the three major agent challenges.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>I’m offering advice for how to handle the three major agent challenges.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Starting the Conversation With a Text</title>
+        <link>http://localhost:4000/starting-the-conversation-with-a-text.html</link>
+        
+          <category>Lead Generation</category>
+        
+          <category>Lead Conversion</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2021-06-30 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Starting+the+Conversation+With+a+Text.mp4</guid>
+        <description>
+
+You should consider communicating with your leads via text messages.
+
+Are you texting your leads?
+
+Think about yourself in this position: Do you prefer an email, text, or phone call? What’s the fastest way to communicate with people? I will tell you that the vast majority of surveys say most people prefer texts. They can answer it in the middle of a meeting or while doing something else. We’ve found that if you call, email, and text a lead that comes into your system, the text is the communication they respond to most.
+
+Make sure you’re texting people, put yourself in their shoes, and think about what you’re texting them. Speaking for myself, as far as leads go, I can’t stand a text from an unnamed source that says, “Hey Amy, how ya doing?” I won’t respond to that. So, consider including the address they emailed you about in your text and say something like, “Hey, I’m reaching out to you about 123 Main St. Are you interested in seeing it?”
+
+“Put yourself in their shoes, and think about what you’re texting them.”
+
+Start the conversation and be succinct. After you get a couple of responses, you can have deeper conversations. In the beginning, though, text quickly and make it short. I hope you’re able to convert more leads this way.
+
+If you have questions about this topic or there’s anything else I can help you with, don’t hesitate to reach out to me. I’d love to hear from you.
+
+
+
+
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Starting+the+Conversation+With+a+Text.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Starting+the+Conversation+With+a+Text.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>You should consider communicating with your leads via text messages.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>You should consider communicating with your leads via text messages.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are You Providing Enough Value?</title>
+        <link>http://localhost:4000/are-you-providing-enough-value.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2021-06-13 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Are+You+Providing+Enough+Value_.mp4</guid>
+        <description>
+
+Ask yourself this question to ensure you’re providing enough value to your clients.
+
+Are you finding that you’re receiving a lot of pushback from sellers about your commission, especially in the current real estate market? In the absence of value, all that’s left is price. Have you considered that you just haven’t been selling enough value to them? Start with a crucial question: What’s most important to the seller?
+
+For example, if you say, “We provide staging, but the house looks beautifully staged already,” there isn’t any value in that to them. Find out what’s most important to them and what assistance they need—those are the things we need to sell our clients as our value. Every seller will be different, so ask what’s important and why it’s important to them. Keep asking questions as you dig deeper and find out what else they consider important.
+
+“In the absence of value, all that’s left is price.”
+
+Most real estate agents don’t ask these kinds of questions, so they’re just hoping that whatever they blanketly provide is what that seller needs. Figure out how you can solve their problems, and then you’ll find that they’re more willing to pay your commission, the one you deserve.
+
+If there’s anything I can do to help you or you have questions, please let me know via phone or email. I hope to speak with you soon.
+
+
+
+
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Are+You+Providing+Enough+Value_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Are+You+Providing+Enough+Value_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Ask yourself this question to ensure you’re providing enough value to your clients.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>Ask yourself this question to ensure you’re providing enough value to your clients.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Discover and Accomplish Your Client’s Goals</title>
+        <link>http://localhost:4000/how-to-discover-and-accomplish-your-clients-goals.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2021-06-01 12:47:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+to+Discover+and+Accomplish+Your+Client%E2%80%99s+Goals.mp4</guid>
+        <description>
+
+There are many different goals your clients may have when buying or selling.
+
+As an agent, you may believe that a seller’s ultimate goal is to make top dollar on their home sale. In reality, though, not all sellers are concerned with getting the most money possible. This is especially true with the incredibly low inventory levels we’re seeing in our market. Some sellers simply want to get cash in their hand so they can buy a home without contingencies, and they’re willing to sell at a discount.
+
+Remember, you’re here to serve your client. You need to ask them questions about what they’re hoping to accomplish as a buyer or seller, and you can then shape your strategy to help them meet their goals. Additionally, do you have the resources to help them get what they need? For example, they may need a bridge loan, help from an investor, or a home equity line of credit in order to avoid a contingent sale. Can you help them through these processes?
+
+“By asking good questions, you’ll get a good idea of how you can meet your client’s goals.”
+
+When speaking with your client, ask strong, open-ended questions about what the client needs. Is money the most important thing for the client, or is their goal to have a quick sale? You can start at this base level and work your way further from there, which helps you develop a strategy to meet their goals. This approach is effective with buyers as well; by asking good questions, you’ll get a good idea of how you can meet your client’s goals.
+
+If you have any questions about working with your clients or would like more information, feel free to reach out to me. I’d be happy to share the experience and knowledge I’ve gained throughout my years in real estate. Until then, I look forward to hearing from you soon.
+
+
+
+
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+to+Discover+and+Accomplish+Your+Client%E2%80%99s+Goals.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+to+Discover+and+Accomplish+Your+Client%E2%80%99s+Goals.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are many different goals your clients may have when buying or selling.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>There are many different goals your clients may have when buying or selling.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How We’ve Structured Our Team</title>
+        <link>http://localhost:4000/how-weve-structured-our-team.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2021-05-11 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+We%E2%80%99ve+Structured+Our+Team.mp4</guid>
+        <description>
+
+This is how the Kite Team is structured and why it works so well.
+
+A question that I am often asked is how to structure a team. I’m going to share how we’re structured and how we sell over 350 houses a year. Last year, we had five licensed agents transact 352 units. Here’s how we’re set up:
+
+Every lead that comes in goes to our inside sales department. These people answer our phones and take down information from the individual calling. From there, they determine whether an appointment needs to be scheduled, whether they just need to be followed up with, or whether they need to go to a lender. They feel out the next step for that individual.
+
+If it goes to an agent, then the agent is booked with that client. There will be an appointment scheduled on the agent’s calendar. The ISAs will do a follow-up and confirm the appointment. If the appointment is taken, the agent will send out listing paperwork to that client.
+
+“Some people can handle the entire transaction, but most like a smaller part of the agent job.”
+
+If they’re not motivated to sell right now, that lead goes back to inside sales, and they just do a follow-up with the potential client. Once we get property and listing paperwork signed, we send out the photographer and courier. The agent is in contact with the client throughout the process.
+
+Once a property is listed, the transaction coordinators help to dummy the draft listing and communicate with the client to get more information. Once an offer comes in, the agent negotiates the offer. The TCs step back in at that point and walk it through to closing. They’re keeping track of the appraisal, inspection, and final walk-through. When the property comes to closing, the inside sales team will again do a follow-up.
+
+Our agents focus on agent activities, transaction coordinators focus on the paperwork, and inside sales focuses on lead generation. It’s a great situation for people who are great at one part of the process and not the whole thing. Some people can handle the entire transaction, but most like a smaller part of the agent job. That’s where a team works well.
+
+If you have any questions about how we’re set up or know of anybody who’d be interested in our team, please contact us. We’re always looking for great people.
+
+
+
+
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+We%E2%80%99ve+Structured+Our+Team.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+We%E2%80%99ve+Structured+Our+Team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>This is how the Kite Team is structured and why it works so well.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>This is how the Kite Team is structured and why it works so well.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tips for Winning in a Seller’s Market</title>
+        <link>http://localhost:4000/tips-for-winning-in-a-sellers-market.html</link>
+        
+          <category>Buyer Prospects</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2021-04-25 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Tips+for+Winning+in+a+Seller%E2%80%99s+Market.mp4</guid>
+        <description>
+
+These four tips will help your buyers win out in this seller’s market.
+
+What does it take to secure the home your buyers want in today’s fast-paced, low-inventory market? Given that our team is 75% to 80% on the listing side of things, I thought I’d share some actionable suggestions for how you can help your buyers win:
+
+1. Find out what’s most important to the seller. Perhaps they’re fishing for a leaseback or want to sell the property as is. If you’re basing your strategy around the assumption that price alone wins the day, your buyers will get left behind.
+
+2. Make sure the contract is complete and communication is clear. Cross your t’s and dot your i’s. Also, just be as responsive as possible to any requests for information.
+
+“Low appraisals are happening more and more; address this elephant in the room preemptively.”
+
+3. Consider escalation clauses and leasebacks. Some folks aren’t fans of the former option, so tread lightly there. The latter, however, is almost always a great way to take some stress off the shoulders of a seller who’ll have to turn around and find a new house themselves.
+
+4. Consider appraisal contingencies. Low appraisals are an issue these days. That’s why we have attorney-drafted language in our offers stating that, if the property doesn’t appraise, the buyer is willing to pay above the purchase price. Address this elephant in the room preemptively.
+
+This ultra-seller’s market won’t last forever—nothing does. That said, as someone who’s been in the business for 17 years, I believe our current market is even crazier than ‘07 and ‘08.
+
+I know you’re all working hard out there for your clients, so if there’s anything I can do to help, please reach out to me. I’m happy to discuss more strategies for how you can win in these conditions.
+
+
+
+
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Tips+for+Winning+in+a+Seller%E2%80%99s+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Tips+for+Winning+in+a+Seller%E2%80%99s+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>These four tips will help your buyers win out in this seller’s market.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>These four tips will help your buyers win out in this seller’s market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Your Safety Should Be a Top Priority</title>
+        <link>http://localhost:4000/why-your-safety-should-be-a-top-priority.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2020-03-08 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Why+Your+Safety+Should+Be+a+Top+Priority.mp4</guid>
+        <description>
+
+As a Realtor, you shouldn&rsquo;t forget to keep your safety a top priority when meeting with clients.
+
+Realtor safety is a big topic nowadays. With that in mind, I have a question to ask you: Have you thought about the best way to meet with clients?
+
+Are you meeting them at your office or a Starbucks, perhaps? Are you ensuring someone knows with whom you’re meeting? Are you getting a driver’s license or some form of identification before meeting with a person?
+
+These are all things to consider when meeting someone for the first time—potentially even after that. Someone should always know where you are. It doesn’t hurt to have a buddy system. Do you have someone else joining you for each meeting? Most mortgage professionals would be happy to join you at an open house.
+
+“Take your safety seriously—it’s a job, and you have a long life to live.”
+
+The bottom line is, you need to make certain you’re safe. Create a system or ask your office what their system is to ensure your safety. You might also consider keeping your spouse on the line during meetings. There are devices you can carry that will alert the police department and people you know if you’re in trouble.
+
+Take your safety seriously—it’s a job, and you have a long life to live.
+
+If you have questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to speak with you.
+
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Why+Your+Safety+Should+Be+a+Top+Priority.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Why+Your+Safety+Should+Be+a+Top+Priority.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As a Realtor, you shouldn’t forget to keep your safety a top priority when meeting with clients.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>As a Realtor, you shouldn’t forget to keep your safety a top priority when meeting with clients.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We’re Looking for Listing Agents!</title>
+        <link>http://localhost:4000/were-looking-for-listing-agents.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2020-02-13 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Were+Looking+for+Listing+Agents!.mp4</guid>
+        <description>
+
+We&rsquo;re hiring listing agents. Here&rsquo;s everything you need to know.
+
+I am eager to share that we are searching for a couple of wonderful listing agents to join our team. We’re looking for someone who is experienced, is great at pricing properties, takes care of clients, and is interested in being part of a team. Even if you aren’t the best at lead generation, we’re looking for someone who, upon receiving a client, can fully make them happy. We’re searching for someone who knows Northern Kane, McHenry, Lake, Northern Cook, and Will counties, and also South Chicago.
+
+Our ISAs set 40 listing appointments last week, so we’re searching for listing agents to join us. This is an excellent career opportunity.
+
+If you or anyone you know may be interested, I’d be glad to speak with them. Please send an email to jobs@amykite.com so we can begin the conversation!
+
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Were+Looking+for+Listing+Agents!.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Were+Looking+for+Listing+Agents!.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’re hiring listing agents. Here’s everything you need to know.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>We’re hiring listing agents. Here’s everything you need to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Short Sales in Today’s Market</title>
+        <link>http://localhost:4000/short-sales-in-todays-market.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2020-01-01 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Short+Sales+in+Todays+Market.mp4</guid>
+        <description>
+
+Today I&rsquo;m discussing short sales and which banks are best to work with when they happen.
+
+There are many people today who still need to do short sales in this market. It’s hard to believe, but this many years after the downturn, people are still in trouble. In Illinois, this has become an issue. As a reminder, a short sale is a sale in which the net proceeds from selling the home fall short of the debts secured by liens against the property.
+
+There is a difference between the lenders you use for a short sale. Some of the larger banks like Citi Bank, Chase, Wells Fargo, and Bank of America have the process down. They’re easier to work with, and they make short sales simpler. When dealing with some of the smaller banks, the process can be a bit more difficult, and they may ask for different things.
+
+Just remember, short sales can still happen in today’s market. If you need a recommendation for an attorney who can help you get a short sale done, I’ll be glad to connect you with who we use and trust. Call or email me with any questions. I would love to help you.
+
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Short+Sales+in+Todays+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Short+Sales+in+Todays+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’m discussing short sales and which banks are best to work with when they happen.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>Today I’m discussing short sales and which banks are best to work with when they happen.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Farming a Targeted Area</title>
+        <link>http://localhost:4000/farming-a-targeted-area.html</link>
+        
+          <category>Lead Generation</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2019-12-04 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Farming+a+Targeted+Area.mp4</guid>
+        <description>
+
+Today I want to share a quick message about how to market to your farm.
+
+I want to share a short message about farming. I started my business with farming. I began with a 1,600-door neighborhood. That’s a ton of doors. Every month I hand-delivered a newsletter.
+
+Farming is targeting your marketing to a certain area. When it comes to farming and targeting, I advise that you go small into an area you can manage. If you can only manage 100 doors, that’s fine, but you want to do it well. Do it right: Communicate with them regularly, get to know them, and create a relationship with these people. Think about what is manageable for you.
+
+“Farming is targeting your marketing to a certain area.”
+
+One thing you may want to do is stand on the corner and hand out KIND Bars. There are many things you can do in your farm besides door-knocking, handing out newsletters, and sending postcards. You can actually get to know people, too.
+
+If you have any questions about targeting, marketing, or farming, I’m here to help. Feel free to call or email me with your needs.
+
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Farming+a+Targeted+Area.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Farming+a+Targeted+Area.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I want to share a quick message about how to market to your farm.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>Today I want to share a quick message about how to market to your farm.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Your Business Relationships Can Bring More Referrals</title>
+        <link>http://localhost:4000/how-your-business-relationships-can-bring-more-referrals.html</link>
+        
+          <category>Reviews and Referrals</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2019-11-18 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/How+Your+Business+Relationships+Can+Bring+More+Referrals.mp4</guid>
+        <description>
+
+Your relationship with your vendors is vitally important if you want to increase your referral business.
+
+When I started in this business, I got connected with a fantastic lender. I provided referrals to this lender, and they did the same for me. In today’s business, there are a ton of lenders who want your business, but do they want to give you theirs?
+
+What you’re looking for in a lender partner is reciprocity. If you’re going to send them multiple referrals, they should be doing the same for you. Referrals work with more than just lenders, too. Home inspectors, insurance agents, and even handymen can provide you with referrals as well.
+
+If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/How+Your+Business+Relationships+Can+Bring+More+Referrals.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/How+Your+Business+Relationships+Can+Bring+More+Referrals.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Your relationship with your vendors is vitally important if you want to increase your referral business.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>Your relationship with your vendors is vitally important if you want to increase your referral business.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Ensure Your Open Houses Are Well-Attended</title>
+        <link>http://localhost:4000/how-to-ensure-your-open-houses-are-well-attended.html</link>
+        
+          <category>Lead Generation</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2019-11-03 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/How+to+Ensure+Your+Open+Houses+Are+Well-Attended.mp4</guid>
+        <description>
+
+How can you ensure that people will attend your open houses? Here are a few of my tips.
+
+ 
+
+When you hold an open house for a listing, it can be frustrating if no one shows up, right? So how can you be certain that people will actually attend your open house?
+
+First, you need to advertise it properly. Putting signs in the yard is fantastic, but there’s more to marketing your open house than just that; you also need to post the event online, hand out flyers, go door-knocking, and advertise it on social media. Increasing the number of people who know about your open house is important; the people you reach may be interested themselves or they may know someone who is. I encourage you to add one or two items every time you do an open house—see what works for you!
+
+As always, if you have any questions about maximizing the outcome of your efforts as an agent, don’t hesitate to reach out to me. I’d love to chat with you.
+
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/How+to+Ensure+Your+Open+Houses+Are+Well-Attended.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/How+to+Ensure+Your+Open+Houses+Are+Well-Attended.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How can you ensure that people will attend your open houses? Here are a few of my tips.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>How can you ensure that people will attend your open houses? Here are a few of my tips.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s the Right Number of Open House Signs?</title>
+        <link>http://localhost:4000/whats-the-right-number-of-open-house-signs.html</link>
+        
+          <category>Lead Generation</category>
+        
+        <author>Amy Kite</author>
+        <pubDate>2019-09-12 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Whats+the+Right+Number+of+Open+House+Signs_.mp4</guid>
+        <description>
+
+How many open house signs should you have? As many as possible.
+
+ 
+
+How many signs should you use for your open house? In my opinion, you should have as many as possible.
+
+Open house signs are great for two reasons:
+
+
+  They drive people to the property
+  They act as advertising for you.
+
+
+I say you should have at least 10 signs—but 15 or 20 would be great. Open houses generate more visibility from main roads, which results in more people driving by your property.
+
+If you have any other questions about this or any other topic, don’t hesitate to reach out to me. I’d love to help you.
+
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Whats+the+Right+Number+of+Open+House+Signs_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/Whats+the+Right+Number+of+Open+House+Signs_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How many open house signs should you have? As many as possible.</itunes:subtitle>
+        <itunes:author>Amy Kite</itunes:author>
+        <itunes:summary>How many open house signs should you have? As many as possible.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
     <copyright>Amy Kite</copyright>
     <media:credit role="author">Amy Kite</media:credit>
     <media:rating>nonadult</media:rating>
