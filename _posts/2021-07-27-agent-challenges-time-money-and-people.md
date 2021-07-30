@@ -5,7 +5,8 @@ date: 2021-07-27 00:00:00
 tags:
   - Transaction Management
 excerpt: I’m offering advice for how to handle the three major agent challenges.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Agent+Challenges_+Time%2C+Money%2C+and+People.mp4
 pullquote: The more efficient you are with your time, the more money you can make.
 enclosure_type: video/mp4
 enclosure_time:
