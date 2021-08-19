@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/07-12-kite-youtube.jpg
-youtube_code: 62XYhWC5i-M
+youtube_code: qTkySNPGYXs
 ---
 {% include youtube.html %}
 
