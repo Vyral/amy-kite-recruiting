@@ -5,7 +5,8 @@ date: 2021-08-12 00:00:00
 tags:
   - Listing Presentation
 excerpt: Today I’m sharing an example of how we would do our listing presentation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+We+Do+Our+Listing+Presentation.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
