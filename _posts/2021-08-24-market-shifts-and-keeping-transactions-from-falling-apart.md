@@ -23,7 +23,7 @@ If your client is a seller, warn them of what’s going to come. Buyers will sta
 
 {% include pullquote.html %}
 
-As a buyer’s agent, make sure your client understands what they can ask for after inspection. If the buyer likes the property but they think it has too many issues, allow the sellers to respond. Sometimes that little step will keep the deal together.
+As a buyer’s agent, make sure your client understands what they can ask for after the inspection. If the buyer likes the property but they think it has too many issues, allow the sellers to respond. Sometimes that little step will keep the deal together.
 
 **It’s important to manage expectations** and keep an eye on finances. As always, tell your buyers to not make any big purchases around the time of the transaction, or it could get canceled.
 
