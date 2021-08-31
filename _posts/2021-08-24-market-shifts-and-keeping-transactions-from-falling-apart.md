@@ -5,7 +5,8 @@ date: 2021-08-24 00:00:00
 tags:
   - Transaction Management
 excerpt: This is my advice on handling transactions in a shifting market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Market+Shifts+and+Keeping+Transactions+From+Falling+Apart.mp4
 pullquote: The market is shifting very fast.
 enclosure_type: video/mp4
 enclosure_time:
