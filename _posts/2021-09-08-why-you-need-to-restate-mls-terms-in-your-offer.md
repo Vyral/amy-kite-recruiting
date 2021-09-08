@@ -4,6 +4,7 @@ title: Why You Need To Restate MLS Terms In Your Offer
 date: 2021-09-08 00:00:00
 tags:
   - Buyer Prospects
+  - Listing Presentation
 excerpt: Make sure that any credit offered on the MLS is also in your initial offer.
 enclosure:
 pullquote:
