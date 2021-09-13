@@ -18,7 +18,7 @@ youtube_code: 90ZmB_20F9s
 
 {% include excerpt.html %}
 
-Today one of our listing agents called me and asked: “If the buyer didn’t put the credit on the offer that we have in the MLS are we still obligated to provide it?” The answer is no. **Your responsibility as an agent is to put those sorts of terms on the offer**. Personal property is another one that can trip agents up.
+Today one of our listing agents called me and asked: “If the buyer didn’t put the credit on the offer that we have in the MLS are we still obligated to provide it?” The answer is no. **Your responsibility as a buyer's agent is to put those sorts of terms on the offer**. Personal property is another one that can trip agents up.
 
 Your buyer might be expecting those terms, but if they aren’t mentioned in the offer, they aren’t going to get it. **Make certain, if there is a credit on the MLS or a personal property agreement, to put that on the initial offer**. It can push the whole process back to negotiation if you try and add that later because you forgot.
 
