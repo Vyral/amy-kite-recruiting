@@ -6,7 +6,8 @@ tags:
   - Buyer Prospects
   - Listing Presentation
 excerpt: Make sure that any credit offered on the MLS is also in your initial offer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Why+You+Need+To+Restate+MLS+Terms+In+Your+Offer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
