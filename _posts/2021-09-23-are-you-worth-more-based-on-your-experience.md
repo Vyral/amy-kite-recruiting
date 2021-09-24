@@ -4,7 +4,7 @@ title: Are You Worth More Based on Your Experience?
 date: 2021-09-23 00:00:00
 tags:
   - Transaction Management
-excerpt: On our team, we look for both brand new and experienced agents.
+excerpt: On our team, we look for both brand-new and experienced agents.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
