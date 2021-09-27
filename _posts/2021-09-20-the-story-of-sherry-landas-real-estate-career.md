@@ -19,7 +19,7 @@ youtube_code: h4oMalBu6PU
 
 Though she’s been in the real estate industry since 2003, Sherry Landa has been a listing agent with the Kite Team for five and a half years. Today she joined me to tell us about where she came from, how she wound up on the Kite Team, and what she's gained since she joined us.
 
-**Feel free to follow along in the video above or else use the timestamps below to navigate the discussion at your leisure:**
+**Feel free to follow along in the video above or use the timestamps below to navigate the discussion at your leisure:**
 
 0:00 — Introduction
 
@@ -43,7 +43,7 @@ Though she’s been in the real estate industry since 2003, Sherry Landa has bee
 
 14:00 — Wrapping up
 
-We’re so happy that Sherry found a place on our team. She’s truly an excellent addition who brings value to us and her clients. If you have any questions about today’s topic or real estate in general, reach out and give the Kite Team a call or send us an email. We’d love to hear from you.
+We’re so happy that Sherry found a place on our team. **She’s truly an excellent addition who brings value to us and her clients**. If you have any questions about today’s topic or real estate in general, reach out and give the Kite Team a call or send us an email. We’d love to hear from you.
 
 {% include events-cta.html %}
 
