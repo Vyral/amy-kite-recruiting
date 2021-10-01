@@ -5,7 +5,8 @@ date: 2021-09-20 00:00:00
 tags:
   - Interviews
 excerpt: A conversation with Sherry Landa, a listing agent for the Kite Team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/The+Story+of+Sherry+Landa's+Real+Estate+Career.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
