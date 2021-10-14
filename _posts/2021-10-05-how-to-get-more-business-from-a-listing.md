@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Listing Presentation
 excerpt: I’m sharing a couple of ideas to capture more business from your listings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/How+To+Get+More+Business+From+a+Listing.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
