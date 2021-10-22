@@ -24,11 +24,11 @@ Why is it important to have multiple lead sources? Let’s talk about it.
 
 First off, how do agents normally generate leads? They could ask if their friends and family know anyone, pay a service to send them leads, belong to a networking group, pay for advertisements, or any other method.
 
-{% include pullquote.html %}
-
 No matter what route you decide to take, **I recommend you have at least three different lead sources**. As you probably know, leads tend to ebb and flow from different sources. Just because one source was hot last week doesn’t mean it will work this week. With multiple sources, you can be sure that when one of the taps dries up for a while, another one will still get you business.
 
 No matter what you’re paying for, **make sure you know how much return on investment you’ll receive**. This doesn’t just go for lead generation, either. If you’re worried about ROI, remember that prospecting is always free.
+
+{% include pullquote.html %}
 
 If you have any questions about today’s video, please call or email me. I am always willing to talk\!
 
