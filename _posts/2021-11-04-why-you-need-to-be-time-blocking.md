@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Need To Be Time Blocking
+title: Why You Need To Time Block
 date: 2021-11-04 00:00:00
 tags:
     - Transaction Management
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-01-kite-youtube.jpg
-youtube_code: PN8ftvZhkhw
+youtube_code: QoYKOJ6paIQ
 ---
 {% include youtube.html %}
 
@@ -23,7 +23,7 @@ How many of us let the day go by without achieving what we wanted to? Maybe ther
 
 I’ve gotten where I am because I’ve gotten up every morning and followed my calendar. You should do the same. **Fill your calendar first with the big rocks, the things you need to have done, and then write in the rest.** For example, you need to schedule a time to do prospecting.
 
-If you don’t write it down, it’s not going to happen. Timeblock your calendar; it will change your world. If you have any questions or need help, feel free to give me a call. I’d love to hear from you.
+If you don’t write it down, it’s not going to happen. Time block your calendar; it will change your world. If you have any questions or need help, feel free to give me a call. I’d love to hear from you.
 
 {% include events-cta.html %}
 
