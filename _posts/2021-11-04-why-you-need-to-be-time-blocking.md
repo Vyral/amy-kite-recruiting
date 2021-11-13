@@ -5,7 +5,8 @@ date: 2021-11-04 00:00:00
 tags:
     - Transaction Management
 excerpt: Time blocking is an important aspect of running a business.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Why+You+Need+To+Time+Block.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
