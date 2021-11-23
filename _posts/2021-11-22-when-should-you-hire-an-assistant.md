@@ -9,8 +9,8 @@ enclosure:
 pullquote: Do not lose business because you don’t have help.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/11-18-kite-youtube-1.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/11-18-kite-youtube-2.jpg
 youtube_code: xvx8w71cCEY
 ---
 {% include youtube.html %}
