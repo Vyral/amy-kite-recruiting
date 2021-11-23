@@ -23,7 +23,7 @@ When you’re considering hiring an assistant, **ask if there’s work not getti
 
 Also, think about if you’re missing out on opportunities or are tired of doing those unenjoyable tasks. Those are also perfect times to hire some help. Do not lose business because you don’t have help; that’s usually when you know you need to hire someone. Don’t lose your business or family, and **don’t continue to beat your head against the wall over what needs to be done.&nbsp;**
 
-You may want to hire someone new to the business, both so they can learn and you have some help. You can hire someone either full time or part time, and you can either hire someone locally or virtually. There are many qualified virtual assistants out there right now and companies who will do much of the training for you.
+You may want to hire someone new to the business, both so they can learn and you have some help. You can hire someone either full-time or part-time, and you can either hire someone locally or virtually. There are many qualified virtual assistants out there right now and companies who will do much of the training for you.
 
 ​​​​
 
