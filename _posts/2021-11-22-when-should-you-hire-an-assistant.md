@@ -5,7 +5,8 @@ date: 2021-11-22 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s when and how to hire an assistant when you need help.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/When+Should+You+Hire+an+Assistant_.mp4
 pullquote: Do not lose business because you don’t have help.
 enclosure_type: video/mp4
 enclosure_time:
