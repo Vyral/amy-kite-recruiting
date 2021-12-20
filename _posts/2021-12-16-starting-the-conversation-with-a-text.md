@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: 'You should consider communicating with your leads via text messages. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2021/Starting+the+Conversation+With+a+Text.mp4
 pullquote: 'Put yourself in their shoes, and think about what you’re texting them. '
 enclosure_type: video/mp4
 enclosure_time:
