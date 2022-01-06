@@ -5,7 +5,8 @@ date: 2021-12-27 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s a quick overview of why proof of funds is very important.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2022/Where+Is+the+Proof+of+Funds_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
