@@ -5,7 +5,8 @@ date: 2022-01-04 19:56:48
 tags:
   - Transaction Management
 excerpt: Hiring the right assistant can completely change your life and work.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2022/Hire+Virtual+Help+at+Cyberbacker.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
