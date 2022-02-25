@@ -5,7 +5,8 @@ date: 2022-02-03 00:00:00
 tags:
   - Transaction Management
 excerpt: Discussing how creating a routine will help you accomplish more tasks.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/Recruiting+Videos/2022/How+To+Create+a+Good+Routine.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: bZ-Q_ExHvFk
 
 {% include excerpt.html %}
 
-As a real estate agent, you must have a routine to be successful. If you wake up in the morning and don't know what you're going to do, you're not going to be very productive.**&nbsp;**
+As a real estate agent, you must have a routine to be successful. If you wake up in the morning and don't know what you're going to do, you're not going to be very productive.
 
 **Instead, if you create a routine and stick to it every day, you will accomplish a lot.** It might start with meditation or exercise, but afterward, start making phone calls, doing follow-ups, generating leads, talking to the agent on the other side, scheduling showings, etc.
 
