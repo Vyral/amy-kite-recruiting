@@ -5,7 +5,7 @@ date: 2022-04-18 00:00:00
 tags:
   - Lead Conversion
 excerpt: How to have a conversation about interest rates with buyers and sellers.
-enclosure:
+enclosure: s3://vyralmarketing/Amy Kite/Videos/2022/04-13_KITE_YOUTUBE.jpg
 pullquote: Help them focus on the payment, not the interest rate.
 enclosure_type: video/mp4
 enclosure_time:
