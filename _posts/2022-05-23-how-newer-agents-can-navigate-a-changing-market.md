@@ -5,7 +5,8 @@ date: 2022-05-23 17:38:49
 tags:
   - Transaction Management
 excerpt: 'Here’s how newer agents can prepare for our shifting market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Amy+Kite/Videos/2022/How+to+'Shift'+in+Today's+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
