@@ -17,7 +17,7 @@ youtube_code: SIv8s7HXc-I
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}\|
+{% include excerpt.html %}
 
 As a real estate agent and independent contractor, you won’t have anybody putting money in a 401k for you—it will be up to you to do it. What can you do to optimize your income and keep growing your wealth? Here are three options:&nbsp;
 
