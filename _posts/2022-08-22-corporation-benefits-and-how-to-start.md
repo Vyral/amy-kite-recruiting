@@ -17,15 +17,17 @@ youtube_code: W6RQDIwZlR8
 
 {% include excerpt.html %}
 
-As a real estate agent, you are an independent contractor and own a business. However, do you officially own your business? Are you incorporated or set up as an LLC? It is very important that you are.&nbsp;
+As a real estate agent, you are an independent contractor and own a business. However, do you officially own your business? Are you incorporated or set up as an LLC? It is crucial that you are.&nbsp;
 
-Talk to your accountant or attorney to find out how they can help you get one set up. **If you are an official company, you’ll have tax advantages.** Doesn’t saving money on taxes sound great?&nbsp;
+Talk to your accountant or attorney to find out how they can help you set one up.
 
-If the accountant or attorney that you go to says no, I would advise you to get a second opinion. I know someone who was told not to be incorporated and just collect the commissions themselves, but then the second person they talked to said yes emphatically and showed them all the money they could be saving.&nbsp;
+**If you are an official company, you’ll have tax advantages.** Doesn’t saving money on taxes sound great?&nbsp;
 
-**Go to someone who is used to working with businesses**, Not all accountants are, and unfortunately, some of them don’t want to go through the headache.&nbsp;
+If the accountant or attorney&nbsp; you go to says no, I would advise you to get a second opinion. I know someone who was told not to be incorporated and simply collect the commissions themselves, but the second person they talked to said yes emphatically and showed them all the money they could be saving.&nbsp;
 
-If there’s anything we can do to help you with this process or with anything in real estate, let us know, we’re here for you\! Call or send an email anytime.
+**Go to someone who is used to working with businesses.**&nbsp;Not all accountants are, and unfortunately some of them don’t want to go through the headache.&nbsp;
+
+If there’s anything we can do to help you with this process or with anything in real estate, let us know. We’re here for you\! Call or send an email anytime.
 
 {% include events-cta.html %}
 
