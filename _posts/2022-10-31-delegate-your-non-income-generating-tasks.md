@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Delegate Your Non-Income-Generating Tasks
+title: Delegate What Doesn’t Generate Income
 date: 2022-10-31 03:00:00
 tags:
   - Transaction Management
@@ -21,7 +21,7 @@ youtube_code: _2lsXNLrQL4
 
 What are the dollar-productive tasks in your business? In a nutshell, these are the activities you’re paid the most amount of money to do. As a real estate agent, these can include going to appointments, establishing prices on properties, negotiating contracts, etc. Generally, these are the parts of your business that only *you* can do.&nbsp;
 
-With that said, who does the other tasks in your business that aren’t income generating? If you’re doing them yourself, you’re only decreasing your average dollar per hour and not being productive with your time. What can you do to increase your revenue without doing these tasks yourself?
+With that said, who does the other tasks in your business that aren’t generating income? If you’re doing them yourself, you’re only decreasing your average dollar per hour and not being productive with your time. What can you do to increase your revenue without doing these tasks yourself?
 
 {% include pullquote.html %}
 
